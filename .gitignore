@@ -1,0 +1,10 @@
+# macOS filesystem cache files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+__MACOSX/
+
+# macOS resource fork files
+._*
